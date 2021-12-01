@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning and Late Thanksgiving!! </h1>
-   <h2> VR, Greg D </h2>
+   <h2> VR, Greg Dupier </h2>
   
 </form>
