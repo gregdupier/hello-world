@@ -32,6 +32,6 @@
   </div>
 
    <h1> Happy TSPi Holiday Party Friday!!!! </h1>
-   <h2> John. is awesome!!</h2>
+   <h2> John and Chris are awesome!!</h2>
   
 </form>
