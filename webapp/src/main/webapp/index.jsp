@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> George is awesome!!! </h1>
+   <h1> Happy TSPi Holiday Party Friday!!!! </h1>
    <h2> VR </h2>
   
 </form>
