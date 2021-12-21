@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Happy TSPi Holiday Party Friday!!!! </h1>
-   <h2> Vishal, John and Chris are awesome!!</h2>
+   <h1> Its almost Dec 25th!! </h1>
+   <h2> Custom text can go here!!!</h2>
   
 </form>
