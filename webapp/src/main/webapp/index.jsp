@@ -32,6 +32,6 @@
   </div>
 
    <h1> Its almost Dec 25th!! </h1>
-   <h2> Custom text can go here!!!</h2>
+   <h2> Corrected IP address. Custom text can go here!!!</h2>
   
 </form>
