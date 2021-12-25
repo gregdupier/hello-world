@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> VANILLA!! Version 2</h1>
+   <h1> VANILLA!! Version 3</h1>
    <h2> Its Wednesday 16:11!!!</h2>
   
 </form>
